@@ -1,6 +1,6 @@
 # Introduction
 Imperia is a tabletop RPG that like many others, provides a set of guidelines to experiencing grand adventures in fictional worlds. This is the the guide to Imperia, it is a fantasy world where everybody has access to magic. People do not have to master their element nor do they have to know of simple magic, a form a wizardry that is not person specific, but they can if they so desire. This system is very homebrew friendly, wich just means I think you should homebrew, not that I did anything special. 
-The first thing you will want to read are the [core rules]
+The first thing you will want to read are the [core rules](https://github.com/devvorb/Imperia-tabletop-rpg/blob/master/README.md#core-rules) wich overviews all the basic elements that make this game. The next thing you will want to check out before starting a campaign is the [character creation] guide
 
 
 
