@@ -1,7 +1,7 @@
 # Introduction
 Imperia is a tabletop RPG that like many others, provides a set of guidelines to experiencing grand adventures in fictional worlds. This is the the guide to Imperia, it is a fantasy world where everybody has access to magic. People do not have to master their element nor do they have to know of simple magic, a form a wizardry that is not person specific, but they can if they so desire. This system is very homebrew friendly, wich just means I think you should homebrew, not that I did anything special. 
 The first thing you will want to read are the [core rules](https://github.com/devvorb/Imperia-tabletop-rpg/blob/master/README.md#core-rules) wich overviews all the basic elements that make this game. The next thing you will want to check out before starting a campaign is the [character creation](https://github.com/devvorb/Imperia-tabletop-rpg/blob/master/README.md#character-creation) guide, those are the two only things that are necessary in order to play.
-
+You can find a guide to 4 of the most basic magics in the [magic starter pack](https://github.com/devvorb/Imperia-tabletop-rpg/blob/master/README.md#elemental-magic-basic-ideas)
 
 
 
@@ -13,7 +13,7 @@ The first thing you will want to read are the [core rules](https://github.com/de
 * Combat: the essentials of it are that it is a turn by turn game, every character plays one after another or every team plays one after another. Whenever a GM says so (or the rules) certain players may get a reaction or throw a dice to know if they get to react. Every action should be a very short action but a player can say they waste a couple turns in order to do something bigger, again it is up to the GM to decide if they get reactions during this time and how many turns this is. All so all living beings and some non-living ones have HP, when it falls to 0 they are k.o for living ones and gone for dead ones and if something is k.o then it can be killed (but if the GM decides that logically this monster or this character should have died before then he/she can kill the poor soul)
 
 # Character creation
-This section will overview the entire process of creating a character. A very important step in an Imperia game, after all what you make now will “be” you for however long you decide to make your games last. The first step is an unofficial one as it has no influence when looking at game mechanics and that step is to decide what kind of character you want. Imagining your character can be a great way to later decide the more precise things. You will not be searching for the same things in your character if you are making a woodcutter bent on finding the best wood in the world or if you are a bounty hunter that has been hunting a nobel lady for the past 2 years.
+This section will overview the entire process of creating a character. A very important step in an Imperia game, after all what you make now will “be” you for however long you decide to make your games last. The first step is an unofficial one as it has no influence when looking at game mechanics and that step is to decide what kind of character you want. Imagining your character can be a great way to later decide the more precise things. You will not be searching for the same things in your character if you are making a woodcutter bent on finding the best wood in the world or if you are a bounty hunter that has been hunting a nobel for the past 2 years.
 
 * The first "real" thing you will want to think about after having made your character is what elemental magic they will have. Here you must choose one element (element defined very loosely here) and then that is your magic. The only rule is that you cannot choose a magic deemed overpowered, everybody will have their own definition, but if you can insta kill someone without training, immobilise without restrictions, reincarnate without limits, etc… Then you probably have something overpowered. Although more in depth ideas will be given, a few examples of magics are fire, lightning, lions, seaweed, spice, earth, weather, animation, gravity and snowflakes. As you can see the game’s definition of element is not a common one.
 
@@ -22,8 +22,12 @@ This section will overview the entire process of creating a character. A very im
 
 # Elemental magic basic ideas
 This magic list is extremely small compare to the amount of available elements and the spell lists and rules of those spells are ideas more so than orders. You do not have to use these magics, you can make your own or take these elements and change the spells.
+* [Water](https://github.com/devvorb/Imperia-tabletop-rpg/blob/master/README.md#water-magic)
+* [Earth](https://github.com/devvorb/Imperia-tabletop-rpg/blob/master/README.md#earth-magic)
+* [Fire](https://github.com/devvorb/Imperia-tabletop-rpg/blob/master/README.md#fire)
+* [Air](https://github.com/devvorb/Imperia-tabletop-rpg/blob/master/README.md#air)
 
-## water magic
+## Water magic
 
 **Easy**
 * Creation: very self explanatory, limits are applied through logic
@@ -46,7 +50,7 @@ This magic list is extremely small compare to the amount of available elements a
 * Divine current: you create an extremely big wave that causes knockback on anyone riding it and massive damage. Very powerful individuals can try to resist it (dif 5-15). It does 3 damage + 1 victim hits a wall + 0.5 for any  victims that crash into eachother.
 
 
-## earth magic
+## Earth magic
 **Easy**
 * Creation: you create earth, with the speciality that it has to “grow” from earth
 
@@ -69,7 +73,7 @@ This magic list is extremely small compare to the amount of available elements a
 
 * Terrain modify: You can change the terrain as an action adding any of the following attributes: Cover (ease 3 when hiding), Spiky (falling or landing against a wall deals 1 damage), Rocky (ease -3 when aiming), Rock floor (When moving from place to place (dif 15) if you fail -1 hp), Magic heavy (spells of easy difficulty don’t work), Magic reinforcement (ease 2 when throwing a spell). More than one effect can be actif at a time and they affect everyone and everything.
 
-## fire
+## Fire
 **Easy** 
 * Fireball: you create and then throw a fireball anywhere dealing 1.5 damage to all those taken in the blast.
 
@@ -89,7 +93,7 @@ This magic list is extremely small compare to the amount of available elements a
 
 * Forever burning fire: You can create a fire that cannot be extinguished by normal means, in order for it to disappear either the creator deactivates it or a mage who is far superior to the caster turns it off (dif 2-15). In addition to being forever burning, flames created by this have ease 3.
 
-## air
+## Air
 **Easy**
 * Airpush: you can push anything near you approximately 5 meters away or push yourself 10 meters away. Enemies can try to resist it (dif 8-12), if they land against a wall they lose 0.5 hp. This attack has no limits to using it again and again.
 
